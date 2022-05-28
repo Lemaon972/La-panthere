@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -818,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("../img/agence-la-panthere.jpeg");
+    background-image: url("../img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("../img/image-de-presentation.jpeg");
+    background-image: url("../img/image-de-presentation.webp");
 }
 blockquote p {
     padding: 25px 15px;

@@ -1032,6 +1032,7 @@ blockquote p {
         width: 180px;
         height: 320px;
     }
+    
 }
 
 @media (max-width: 400px) {
@@ -1045,4 +1046,5 @@ blockquote p {
     .bloc-mob-center-text {
         text-align: center;
     }
+    
 }
